@@ -1,7 +1,7 @@
 
 # Documentação
 
-Nesta pasta pode encontrar documentação para varios aspetos do projeto.
+Nesta pasta pode encontrar documentação para varios aspetos do projeto. Existem dois ficheiro de cada documento, um para pdf e o outro para word. Para indentificá-los, os ficheiros pdf têm a palavra "Novo" antes do nome de cada documento.
 
 - **3.1_Como_comunicar_com_o_ESP32.pdf**
   - Explica como conectar a placa de desenvolvimento ESP32 ao software Arduino IDE.
