@@ -138,7 +138,7 @@ Existe um conjunto de atividades para cada nível. Após ler a documentação de
 
 Depois de já ter realizado os tutoriais do ArduBock deverá ter uma noção melhor de como programar no Arduino IDE. Também elaboramos alguns tutoriais e atividades para facilitar a aprendizagem,
 
-- [Tutorial 1 - Movimento;](https://github.com/ipleiria-robotics/iModBot/blob/master/1_Tutoriais/1-2_Tutoriais_para_Arduino_IDE/Tutorial_1_-_Movimento/Tutorial_1_iModBot_-_Movimento.pdf)
+- [Tutorial 1 - Movimento;](https://github.com/Guilherme010101/iModBot/tree/ArduinoOTA/1_Tutoriais/1-2_Tutoriais_para_Arduino_IDE/Tutorial_1_-_Movimento)
 
 - [Tutorial 2 - Sensores;](https://github.com/ipleiria-robotics/iModBot/blob/master/1_Tutoriais/1-2_Tutoriais_para_Arduino_IDE/Tutorial_2_-_Sensores/Tutorial_2_iModBot_-_Sensores.pdf)
 
