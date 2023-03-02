@@ -26,7 +26,7 @@ Por fim irá obter um conjunto de pastas e ficheiros organizados da mesma maneir
 # Elaboração do Projeto
 **1º Passo do Projeto**
 
-Para montar o robô basta seguir o documento 4_Guia_de_montagem_offline ([3_Documentacao/3-4_Guia_de_montagem_offline.pdf](https://github.com/Guilherme010101/iModBot/blob/ArduinoOTA/3_Documentacao/Novo_3-03_iModBot_Offline_Assembly_Guide.pdf)) que mostra como montar ou então assistir o video [iModBot@ipleiria.pt guia de montagem](https://www.youtube.com/watch?v=i4wFh0GqzkM&feature=emb_logo). Para perceber melhor o que faz cada componente do robô pode ler o manual técnico ([3_Documentacao/3-5_Manual_Tecnico_iModBot.pdf](https://github.com/ipleiria-robotics/iModBot/blob/master/3_Documentacao/3-5_Manual_Tecnico_iModBot.pdf)) que explica vários aspetos do robô. 
+Para montar o robô basta seguir o documento 4_Guia_de_montagem_offline ([3_Documentacao/Novo_3-03_iModBot_Offline_Assembly_Guide.pdf](https://github.com/Guilherme010101/iModBot/blob/ArduinoOTA/3_Documentacao/Novo_3-03_iModBot_Offline_Assembly_Guide.pdf)) que mostra como montar ou então assistir o video [iModBot@ipleiria.pt guia de montagem](https://www.youtube.com/watch?v=i4wFh0GqzkM&feature=emb_logo). Para perceber melhor o que faz cada componente do robô pode ler o manual técnico ([3_Documentacao/3-5_Manual_Tecnico_iModBot.pdf](https://github.com/ipleiria-robotics/iModBot/blob/master/3_Documentacao/3-5_Manual_Tecnico_iModBot.pdf)) que explica vários aspetos do robô. 
 
 Lista de material:
  * ESP32 wroom32 devkit ; 
