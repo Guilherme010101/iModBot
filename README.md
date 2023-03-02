@@ -140,7 +140,7 @@ Depois de já ter realizado os tutoriais do ArduBock deverá ter uma noção mel
 
 - [Tutorial 1 - Movimento;](https://github.com/Guilherme010101/iModBot/tree/ArduinoOTA/1_Tutoriais/1-2_Tutoriais_para_Arduino_IDE/Tutorial_1_-_Movimento)
 
-- [Tutorial 2 - Sensores;](https://github.com/ipleiria-robotics/iModBot/blob/master/1_Tutoriais/1-2_Tutoriais_para_Arduino_IDE/Tutorial_2_-_Sensores/Tutorial_2_iModBot_-_Sensores.pdf)
+- [Tutorial 2 - Sensores;](https://github.com/Guilherme010101/iModBot/tree/ArduinoOTA/1_Tutoriais/1-2_Tutoriais_para_Arduino_IDE/Tutorial_2_-_Sensores)
 
 - [Tutorial 3 - Seguir trajeto.](https://github.com/ipleiria-robotics/iModBot/blob/master/1_Tutoriais/1-2_Tutoriais_para_Arduino_IDE/Tutorial_3_-_Seguir_trajeto/Tutorial_3_iModBot_-_Seguir%20trajeto.pdf)
 
