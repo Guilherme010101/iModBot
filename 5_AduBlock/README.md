@@ -13,7 +13,7 @@ Antes de começara a baixar os vários programa que serão necessários, começa
 # Programas necessários
 
 Os programas são os seguintes:
-Nota: Quando fizer o download tem de ter inconsideração o sistema operativo que esta a utilizar.
+Nota: Quando fizer o download tem de ter em consideração o sistema operativo que está a utilizar.
 
 **Java JDK**
 
