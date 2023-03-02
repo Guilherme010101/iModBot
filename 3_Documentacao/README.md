@@ -9,13 +9,13 @@ Nesta pasta pode encontrar documentação para varios aspetos do projeto. Existe
 - **3-02_iModBot_Assembly_And_Software_Installation_Tutorial.docx** ou **Novo_3-02_iModBot_Assembly_And_Software_Installation_Tutorial.pdf**
   - Explica como montar o robô, instalar os seus softwares e a programação e instalação dos mesmos.
 
-- **3-03_iModBot_Offline_Assembly_Guide** ou **Novo_3-03_iModBot_Offline_Assembly_Guide**
+- **3-03_iModBot_Offline_Assembly_Guide.docx** ou **Novo_3-03_iModBot_Offline_Assembly_Guide.pdf**
   - Fornece uma lista de componentes e apresenta as ligações que devem ser efetuadas entre os componentes.
 
-- **3.1_Como_comunicar_com_o_ESP32.pdf**
+- **3-04_Add_ESP32_Arduino_IDE.docx** ou **Novo_3-04_Add_ESP32_Arduino_IDE.pdf**
   - Explica como conectar a placa de desenvolvimento ESP32 ao software Arduino IDE.
   
-- **3.2_Como_instalar_ArduBlock_no_Arduino_IDE.pdf**
+- **3-05_Add_ArduBlock_Arduino_IDE.docx** ou **Novo_3-05_Add_ArduBlock_Arduino_IDE.pdf**
   - Explica como instalar o ArduBlock no software Arduino IDE.
   
 - **3.3_Como_instalar_bibliotecas_no_Arduino_IDE.pdf**
