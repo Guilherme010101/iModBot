@@ -132,7 +132,7 @@ Os [4 níveis](https://github.com/Guilherme010101/iModBot/tree/ArduinoOTA/1_Tuto
 
 - [Nivel Avançado;](https://github.com/Guilherme010101/iModBot/tree/ArduinoOTA/1_Tutoriais/1-1_Tuturiais_para_ArduBlock/Tutorial_4_-_Advanced_Level)
 
-Existe um conjunto de atividades para cada nível. Após ler a documentação de um nível poderá realizar a atividade correspondente  ao mesmo em [2_Atividades/2-1_Atividades_para_ArduBlock/](https://github.com/ipleiria-robotics/iModBot/tree/master/2_Atividades/2-1_Atividades_para_ArduBlock).
+Existe um conjunto de atividades para cada nível. Após ler a documentação de um nível poderá realizar a atividade correspondente  ao mesmo em [2_Atividades/2-1_Atividades_para_ArduBlock/](https://github.com/Guilherme010101/iModBot/tree/ArduinoOTA/2_Atividades/2-1_Atividades_para_ArduBlock).
 
 **Documentação do Arduino IDE**
 
