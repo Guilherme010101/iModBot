@@ -112,7 +112,7 @@ Lista de material:
 Ler e seguir os tutoriais para configurar o Arduíno:
  - Configurar Arduíno IDE para o ESP32; ([3_Documentacao/Novo_3-04_Add_ESP32_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot/blob/ArduinoOTA/3_Documentacao/Novo_3-04_Add_ESP32_Arduino_IDE.pdf))
 
- - Configurar ArduBlock no Arduíno IDE; ([3_Documentacao/3-2_Como_instalar_ArduBlock_no_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot/blob/ArduinoOTA/3_Documentacao/Novo_3-05_Add_ArduBlock_Arduino_IDE.pdf))
+ - Configurar ArduBlock no Arduíno IDE; ([3_Documentacao/Novo_3-05_Add_ArduBlock_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot/blob/ArduinoOTA/3_Documentacao/Novo_3-05_Add_ArduBlock_Arduino_IDE.pdf))
 
  - Como instalar bibliotecas no Arduíno IDE. ([3_Documentacao/3-3_Como_instalar_bibliotecas_no_Arduino_IDE.pdf](https://github.com/ipleiria-robotics/iModBot/blob/master/3_Documentacao/3-3_Como_instalar_bibliotecas_no_Arduino_IDE.pdf))
 
