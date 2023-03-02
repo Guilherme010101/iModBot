@@ -1,7 +1,7 @@
 
 # Editar ArduBlock com o Eclipse IDE
 
-Antes de começara a baixar os vários programa que serão necessários, começava por abrir o documento que se encontra dentro da pasta 1.Instalacao_Eclipe que te vai ajudar a instalar os programa.
+Antes de começara a baixar os vários programa que serão necessários, começava por abrir o documento que se encontra dentro da pasta 1.Instalacao_Eclipe que te vai ajudar a instalar os programas.
 
 
 
