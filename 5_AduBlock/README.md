@@ -37,7 +37,7 @@ Video que mostra como criar um bloco.
 
 Link: https://www.youtube.com/watch?v=zwJaZi3XqS4
 
-Video que mostra como alterar o bloco que inicia no ArdeBlock.
+Video que mostra como alterar o bloco que inicia no ArduBlock.
 
 Link: https://www.youtube.com/watch?v=WBfqx3kWE7s
 
