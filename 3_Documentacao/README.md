@@ -27,6 +27,21 @@ Nesta pasta pode encontrar documentação para varios aspetos do projeto. Existe
 - **3-08_Create_ArduBlock_Blocks.docx** ou **Novo_3-08_Create_ArduBlock_Blocks.pdf**
   - Explica como criar blocos para o ArduBlock no software Eclipse IDE.
 
+- **3-09_Add_Eclipse_IDE_Libraries.docx** ou **Novo_3-09_Add_Eclipse_IDE_Libraries.pdf**
+  - Explica como adicionar bobliotecas faltantes no software Eclipse IDE.
+
+- **3-10_Update_JDK.docx** ou **Novo_3-10_Update_JDK.pdf**
+  - Explica como atualizar a versão de Java para uitilizar o software Eclipse IDE.
+
+- **3-11_Openblock_Error_Tutorial.docx** ou **Novo_3-11_Openblock_Error_Tutorial.pdf**
+  - Explica como resolver um erro que pode acontecer ao instalar o Openblocks no projeto ArduBlock.
+
+- **3-12_Basic_Eletronics_Assembly_Guide.docx** ou **Novo_3-12_Basic_Eletronics_Assembly_Guide.pdf**
+  - Guia básico de montagem de circuitos elétricos.
+  
+- **3-13_Remote_Bluetooth_Dualshock.docx** ou **Novo_3-13_Remote_Bluetooth_Dualshock.pdf**
+  - Explica como controloar o robô iModBot via bluetooth com um comando Dualshock PS3 ou PS4.
+
 # Esquema eletrónico e PCB
 
 
