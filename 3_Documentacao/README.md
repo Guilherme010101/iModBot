@@ -3,8 +3,11 @@
 
 Nesta pasta pode encontrar documentação para varios aspetos do projeto. Existem dois ficheiro de cada documento, um para pdf e o outro para word. Para indentificá-los, os ficheiros pdf têm a palavra "Novo" antes do nome de cada documento.
 
-- **Novo_3-01_iModBot_Tech_Manual.pdf** ou **3-01_iModBot_Tech_Manual.doc**
+- **Novo_3-01_iModBot_Tech_Manual.pdf** ou **3-01_iModBot_Tech_Manual.docx**
   - Descreve os componentes utilizados no projeto, as funções proporcionadas pela biblioteca entre outros aspetos.
+
+- **Novo_3-02_iModBot_Assembly_And_Software_Installation_Tutorial.pdf** ou **3-02_iModBot_Assembly_And_Software_Installation_Tutorial.docx**
+  - Explica como montar o robô, instalar os seus softwares e a programação e instalação dos mesmos.
 
 - **3.1_Como_comunicar_com_o_ESP32.pdf**
   - Explica como conectar a placa de desenvolvimento ESP32 ao software Arduino IDE.
@@ -18,9 +21,7 @@ Nesta pasta pode encontrar documentação para varios aspetos do projeto. Existe
 - **3.4_Guia_de_montagem_offline.pdf**
   - Fornece uma lista de componentes e apresenta as ligações que devem ser efetuadas entre os componentes.
   
-- **3.5_Manual_Tecnico_iModBot.pdf**
-  - Descreve os componentes utilizados no projeto, as funções proporcionadas pela biblioteca entre outros aspetos.
-  
+
 - **3.6_iModRob_Eagle_2_layer_board.zip**
   - Também é disponibilizado o projeto para a aplicação Autodesk Eagle que contém uma placa de circuito impresso (PCB) que facilitará a montagem dos componentes no robô.
 
