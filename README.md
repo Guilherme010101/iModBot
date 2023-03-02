@@ -145,7 +145,7 @@ Depois de já ter realizado os tutoriais do ArduBock deverá ter uma noção mel
 - [Tutorial 3 - Seguir trajeto.](https://github.com/Guilherme010101/iModBot/tree/ArduinoOTA/1_Tutoriais/1-2_Tutoriais_para_Arduino_IDE/Tutorial_3_-_Seguir_trajeto)
 
 As atividades para cada tutorial estão disponíveis em [/2_Atividades/2-2_Atividades_para_Arduino_IDE/
-](https://github.com/Guilherme010101/iModBot/tree/ArduinoOTA/2_Atividades/2-2_Atividades_para_Arduino_IDE).
+](https://github.com/Guilherme010101/iModBot/tree/ArduinoOTA/5_AduBlock).
 
 
 # Editar o ArduBlock
