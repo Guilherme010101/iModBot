@@ -126,7 +126,7 @@ Os [4 níveis](https://github.com/Guilherme010101/iModBot/tree/ArduinoOTA/1_Tuto
 
 - [Nivel Iniciante;](https://github.com/Guilherme010101/iModBot/tree/ArduinoOTA/1_Tutoriais/1-1_Tuturiais_para_ArduBlock/Tutorial_1_-_Begginer%20Level)
 
-- [Nivel Normal;](https://github.com/ipleiria-robotics/iModBot/blob/master/1_Tutoriais/1-1_Tuturiais_para_ArduBlock/Tutorial_2_-_Nivel_Normal/Nivel_Normal.pdf)
+- [Nivel Normal;](https://github.com/Guilherme010101/iModBot/tree/ArduinoOTA/1_Tutoriais/1-1_Tuturiais_para_ArduBlock/Tutorial_2_-_Nivel_Normal)
 
 - [Nivel Médio;](https://github.com/ipleiria-robotics/iModBot/blob/master/1_Tutoriais/1-1_Tuturiais_para_ArduBlock/Tutorial_3_-_Nivel_Medio/Nivel_Medio.pdf)
 
