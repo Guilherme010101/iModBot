@@ -18,9 +18,8 @@ Nesta pasta pode encontrar documentação para varios aspetos do projeto. Existe
 - **3-05_Add_ArduBlock_Arduino_IDE.docx** ou **Novo_3-05_Add_ArduBlock_Arduino_IDE.pdf**
   - Explica como instalar o ArduBlock no software Arduino IDE.
   
-- **3.3_Como_instalar_bibliotecas_no_Arduino_IDE.pdf**
+- **3-06_Add_Arduino_IDE_Libraries.docxz** ou **Novo_3-06_Add_Arduino_IDE_Libraries.pdf**
   - Explica como instalar biblioteacas no software Arduino IDE.
-  
   
 - **3.6_iModRob_Eagle_2_layer_board.zip**
   - Também é disponibilizado o projeto para a aplicação Autodesk Eagle que contém uma placa de circuito impresso (PCB) que facilitará a montagem dos componentes no robô.
